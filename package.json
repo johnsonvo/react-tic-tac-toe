@@ -12,7 +12,7 @@
   "name": "wjwuw8",
   "description": null,
   "version": "0.0.0",
-  "homepade": "https://johnsonvo.github.io/react-tic-tac-toe",
+  "homepage": "https://johnsonvo.github.io/react-tic-tac-toe",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
